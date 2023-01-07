@@ -4,5 +4,5 @@ new ChamferedCube(
 	200,// X 
 	100, // Y
 	50, // Z
-	15 // Chamfer length
+	8// Chamfer length
 	).toCSG()
